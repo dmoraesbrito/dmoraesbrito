@@ -13,7 +13,7 @@
   
   <br> 
   
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo! 
+  ### Para me conhecer melhor, ver minha trajetória profissional ou mandar um email, dá um clique abaixo!
   
   <div> 
     <a href="https://instagram.com/dmoraesbrito" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
